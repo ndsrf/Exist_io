@@ -20,6 +20,10 @@ This integration imports into exist.io the number of pictures taken every day (a
 
 This integration imports data into exist.io but it is still in progress: number of different locations and number of kilometers travelled by car. There is not an API for Google Location history so we use Google Takeout to download an extract and import it.
 
+### Stock Market
+
+This integration stores values the close value for some tickers into exist.io
+
 ## How to add a new service
 
 Once you create your account in exist.io, you need to follow the next steps to be able to use the data. This section might get out of date quick, so please only use for quick reference, the real instructions are in Exist.io API documentation (https://developer.exist.io/).
